@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/customerio/go-customerio/v3"
+	"github.com/jackhopner/go-customerio/v3"
 )
 
 func TestAPIOptions(t *testing.T) {
